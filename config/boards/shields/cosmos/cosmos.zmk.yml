@@ -1,0 +1,11 @@
+file_format: "1"
+id: cosmos
+name: Cosmos
+type: shield
+url: https://ryanis.cool/cosmos/beta
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - cosmos_left
+  - cosmos_right
